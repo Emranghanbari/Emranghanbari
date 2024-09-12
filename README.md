@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖐 Hi my name is Emran Ghanbari I'm an Iranian junior developer<br>🔭 I’m currently working on my skills to become a better developer<br>📫 You can contact me using my email emranghni.work@gmail.com<br>🌱 I’m currently learning node js <br>💬 Ask me about anything you want<br>⚡ Fun fact I'm still just a teen boy
+🖐 Hi my name is Emran Ghanbari I'm an Iranian junior developer<br>🔭 I’m currently working on my skills to become a better developer<br>📫 You can contact me using my email emranghni.work@gmail.com<br>🌱 I’m currently learning node js <br>⚡ Fun fact I'm still just a teen boy
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Emranghanbari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Emranghanbari&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Emranghanbari&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
