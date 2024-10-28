@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖐 Hi my name is Emran Ghanbari I'm an Iranian junior developer<br>🔭 I’m currently working on my skills to become a better developer<br>📫 You can contact me using my email emranghni.work@gmail.com<br>🌱 I’m currently learning node js <br>⚡ Fun fact I'm still just a teen boy
+🖐 Hi my name is Emran Ghanbari I'm an Iranian junior developer<br>🔭 I’m currently working on my skills to become a better developer<br>📫 You can contact me using my email emranghni.work@gmail.com<br
 
 
 ## 🌐 Socials:
